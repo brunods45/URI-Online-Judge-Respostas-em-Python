@@ -1,0 +1,16 @@
+
+A = int (input()) # Variavel A recebe um numero inteiro que será dado pelo teclado.
+
+B = int (input())# Variavel B recebe um numero inteiro que será dado pelo teclado.
+
+
+
+soma = A + B # Variavel Soma recebe o resultado da soma da variavel A + B.
+
+
+
+print ("X =",soma)# Comando print escreve na tela o que estiver entre aspas e também o conteúdo da variavel soma.
+
+
+
+#MADE BY Bruno Da Silva Muniz
