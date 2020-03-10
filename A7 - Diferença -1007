@@ -1,0 +1,6 @@
+A= int (input()) # Cria uma variavel com nome A, que receberá numeros inteiros, via teclado.
+B= int (input()) # Cria uma variavel com nome B, que receberá numeros inteiros, via teclado.
+C= int (input()) # Cria uma variavel com nome C, que receberá numeros inteiros, via teclado.
+D= int (input()) # Cria uma variavel com nome D, que receberá numeros inteiros, via teclado.
+DIFERENCA = (A*B - C*D) # Cria uma variavel com nome DIFERENCA contendo a variavel A * B - C*D
+print ("DIFERENCA =",DIFERENCA) # Comando Imprimir mostra na tela a frase "DIFERENCA = o valor contido na variavel DIFERENCA
