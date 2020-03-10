@@ -1,0 +1,4 @@
+A= int (input()) ** Cria uma variavel com nome A, com numeros inteiros, que receberá seus dados via teclado.
+B= int (input()) ** Cria uma variavel com nome B, com numeros inteiros, que receberá seus dados via teclado.
+PROD = A * B    ** Cria uma variavel com nome PROD que receberá o resultado da multiplicação da variavel A e B.
+print("PROD =",PROD)  ** Comando print escreve na tela "PROD =" mais o resultado armazenado em PROD.
