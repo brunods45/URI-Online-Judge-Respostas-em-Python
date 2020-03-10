@@ -1,0 +1,6 @@
+A= float (input()) # Cria uma variavel com o nome A, que receberá numeros flutuantes, entrada virá via teclado
+B= float (input()) # Cria uma variavel com o nome B, que receberá numeros flutuantes, entrada virá via teclado
+mediaA=(A*3.5)  # Cria uma variavel com o nome mediaA, recebendo os dados da variavel A * 3.5 que seria o peso da nota
+mediaB=(B*7.5)  # Cria uma variavel com o nome mediaB, recebendo os dados da variavel B * 7.5 que seria o peso da nota
+media= (mediaA + mediaB) /11  # Cria uma variavel chamada media com os valores da variavel mediaA + mediaB dividido por 11
+print ("MEDIA =%.5f"%media) # Comando imprimir "MEDIA=" com o valor da variavel media com 5 casas decimais.
