@@ -1,0 +1,6 @@
+numerofuncio= int (input()) # Cria uma variavel com nome numerofuncio que receberá numeros inteiros, vindos do teclado.
+horastrab= float    (input())  # Cria uma variavel com nome horastrab que receberá numeros flutuantes, vindos do teclado.
+valorphora= float (input()) # Cria uma variavel chamada de valorphora que receberá numeros de pontos flutuantes, vindos do teclado.
+salario= valorphora * horastrab # Cria uma variavel com nome salario que receberá os dados das variaveis valorphora * horastrab
+print ("NUMBER =",numerofuncio) # imprime na tela "NUMBER =" mais o resultado contindo na variavel salario
+print ("SALARY = U$ %.2f"%salario) # imprime na tela "SALARY = $U$" mais o valor contido na variavel salario.
