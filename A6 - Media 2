@@ -1,0 +1,8 @@
+A= float (input()) #Cria uma variavel com o nome A do tipo flutuante, que será enviado via teclado
+B= float (input()) #Cria uma variavel com o nome B do tipo flutuante, que será enviado via teclado
+C= float (input()) #Cria uma variavel com o nome C do tipo flutuante, que será enviado via teclado
+mediaA= (A*2) # Cria uma variavel com nome mediaA, que recebe a a variavel A multiplicando por 2 
+mediaB= (B*3) # Cria uma variavel com nome mediaB, que recebe a a variavel A multiplicando por 3
+mediaC= (C*5) # Cria uma variavel com nome mediaC, que recebe a a variavel A multiplicando por 5
+media= (mediaA + mediaB + mediaC) / 10 # Cria uma variavel com nome media, recebendo a media A + mediaB + mediaC, após dividir por 10
+print ("MEDIA = %.1f"%media) # Comando imprimi na tela "MEDIA =" em seguida o resultado contido na variavel media  com apenas uma casa decimal.
