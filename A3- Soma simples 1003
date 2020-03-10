@@ -1,4 +1,4 @@
-A= int (input())  ** Cria a variavel A com numeros inteiros, que será enviado pelo teclado.
-B= int (input())  ** Cria a variavel B com numeros inteiros, que será enviado pelo teclado.
-SOMA = A + B     ** Cria a variavel soma que recebe a soma das variaveis A e B.
-print ("SOMA =",SOMA)  ** Comando print imprime na tela "SOMA =" resultado armazenado na variavel SOMA.
+A= int (input())  # Cria a variavel A com numeros inteiros, que será enviado pelo teclado.
+B= int (input())  # Cria a variavel B com numeros inteiros, que será enviado pelo teclado.
+SOMA = A + B     # Cria a variavel soma que recebe a soma das variaveis A e B.
+print ("SOMA =",SOMA) # Comando print imprime na tela "SOMA =" resultado armazenado na variavel SOMA.
