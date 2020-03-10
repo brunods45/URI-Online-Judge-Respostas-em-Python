@@ -1,4 +1,4 @@
-raio=float(input())     **Cria uma variavel com o nome de raio, float indica um numero flutuante, input indica que será digitado o valor da variavel via teclado.
-n= float (3.14159)   ** Cria uma variavel chamada n, com valores flutuantes, já indicando o valor que ela receberá 3.14159.
-area=(raio**2)*n    ** Solução, criar uma variavel para receber a multiplicação das variaveis.
-print("A=%.4f"%area) ** Comando print imprime na tela o resultado contido na variavel area, com formatação para 4 casas decimais.
+raio=float(input())     #Cria uma variavel com o nome de raio, float indica um numero flutuante, input indica que será digitado o valor da variavel via teclado.
+n= float (3.14159)   # Cria uma variavel chamada n, com valores flutuantes, já indicando o valor que ela receberá 3.14159.
+area=(raio**2)*n    #Solução, criar uma variavel para receber a multiplicação das variaveis.
+print("A=%.4f"%area) # Comando print imprime na tela o resultado contido na variavel area, com formatação para 4 casas decimais.
